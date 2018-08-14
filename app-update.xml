@@ -1,0 +1,12 @@
+<?xml version="1.0"?> 
+<FivoUpdate> 
+    <update appID="Fivo.Agent.Control"> 
+        <version>1.8.4.0</version> 
+       <url>https://downloads.fivo.io/FivoNet.Agent.Setup.msi</url> 
+        <fileName>FivoNet.Agent.Setup.msi</fileName> 
+        <md5>test</md5>
+        <description>
+		</description> 
+        <launchArgs></launchArgs> 
+    </update> 
+</FivoUpdate>
