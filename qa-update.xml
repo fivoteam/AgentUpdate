@@ -2,7 +2,7 @@
 <FivoUpdate> 
     <update appID="Fivo.Agent.Control"> 
         <version>1.8.6.1</version> 
-        <url>https://downloads.fivo.io/FivoQA.Agent.Setup.msi</url> 
+        <url>https://s3.amazonaws.com/downloads.fivo.io/FivoQA.Agent.Setup.msi</url> 
         <fileName>FivoQA.Agent.Setup.msi</fileName> 
         <md5>ee95eab126eca1152d60fdee1be5483d</md5>
         <description>
