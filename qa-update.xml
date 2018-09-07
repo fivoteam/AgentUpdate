@@ -9,7 +9,6 @@
 		1. Added machine state/description retrieval
 		2. Able to enable or disable native signalr logging
 		3. Enhancements and bug fixes
-		
 	</description> 
         <launchArgs></launchArgs> 
     </update> 
