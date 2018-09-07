@@ -5,8 +5,9 @@
         <url>https://s3.amazonaws.com/downloads.fivo.io/FivoQA.Agent.Setup.msi</url> 
         <fileName>FivoQA.Agent.Setup.msi</fileName> 
         <md5>F8C78B60E7C400607929618825E94760</md5>
-        <description>1. Added machine state/description retrieval    2. Able to enable or disable native signalr logging 3. Enhancements and bug fixes
-	</description> 
+        <description>1. Added machine state/description retrieval
+ 2. Able to enable or disable native signalr logging 
+3. Enhancements and bug fixes</description> 
         <launchArgs></launchArgs> 
     </update> 
 </FivoUpdate>
