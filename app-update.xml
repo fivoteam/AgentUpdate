@@ -3,8 +3,8 @@
     <update appID="Fivo.Agent.Control"> 
         <version>1.8.5.0</version> 
         <url>https://s3.amazonaws.com/downloads.fivo.io/FivoApp.Agent.Setup.msi</url> 
-        <fileName>FivoNet.Agent.Setup.msi</fileName> 
-        <md5>E274FE9A28D3FC28A9387E4FACEEA737</md5>
+        <fileName>FivoApp.Agent.Setup.msi</fileName> 
+        <md5>5955BEA78FEAE623CB20621414BFF0BF</md5>
         <description>
 		N/A
 	</description> 
