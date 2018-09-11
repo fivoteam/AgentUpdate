@@ -1,13 +1,13 @@
 <?xml version="1.0"?> 
 <FivoUpdate> 
     <update appID="Fivo.Agent.Control"> 
-        <version>1.8.5.0</version> 
+        <version>1.8.6.3</version> 
         <url>https://s3.amazonaws.com/downloads.fivo.io/FivoAppa.Agent.Setup.msi</url> 
         <fileName>FivoAppa.Agent.Setup.msi</fileName> 
-        <md5>E42EDBC3C3DDBE80B8CDFD18B3C49AF0</md5>
-        <description>
-		N/A		
-	</description> 
+        <md5>6019D6F3F54EAB9B9DC172D37DBC9AF7</md5>
+        <description>1. Added machine state/description retrieval
+2. Able to enable or disable native signalr logging 
+3. Enhancements and bug fixes</description> 
         <launchArgs></launchArgs> 
     </update> 
 </FivoUpdate>
