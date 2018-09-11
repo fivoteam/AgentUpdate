@@ -4,7 +4,7 @@
         <version>1.8.6.3</version> 
         <url>https://s3.amazonaws.com/downloads.fivo.io/FivoApp.Agent.Setup.msi</url> 
         <fileName>FivoApp.Agent.Setup.msi</fileName> 
-        <md5>5955BEA78FEAE623CB20621414BFF0BF</md5>
+        <md5>3678419C2C0FA3B9050ABF7FD7AC76AD</md5>
         <description>1. Added machine state/description retrieval
 2. Able to enable or disable native signalr logging 
 3. Enhancements and bug fixes</description> 
