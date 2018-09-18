@@ -5,9 +5,7 @@
         <url>https://s3.amazonaws.com/downloads.fivo.io/FivoQA.Agent.Setup.msi</url> 
         <fileName>FivoQA.Agent.Setup.msi</fileName> 
         <md5>4D884FF663FA8783CF14162DA4F7027A</md5>
-        <description>1. Added machine state/description retrieval
-2. Able to enable or disable native signalr logging 
-3. Enhancements and bug fixes</description> 
+        <description>1. Agent is able to retrieve mirth server name
         <launchArgs></launchArgs> 
     </update> 
 </FivoUpdate>
