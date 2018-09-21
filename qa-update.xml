@@ -1,10 +1,10 @@
 <?xml version="1.0"?> 
 <FivoUpdate> 
     <update appID="Fivo.Agent.Control"> 
-        <version>1.9.2.0</version> 
+        <version>1.9.2.1</version> 
         <url>https://s3.amazonaws.com/downloads.fivo.io/FivoQA.Agent.Setup.msi</url> 
         <fileName>FivoQA.Agent.Setup.msi</fileName> 
-        <md5>164A2C8338B49722D5D647F8CC4976C5</md5>
+        <md5>2288471BAFD5AAC168EBA3EA5FB38C41</md5>
         <description>1. Agent is able to retrieve mirth server name
         <launchArgs></launchArgs> 
     </update> 
