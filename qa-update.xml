@@ -4,7 +4,7 @@
         <version>1.9.2.2</version> 
         <url>https://s3.amazonaws.com/downloads.fivo.io/FivoQA.Agent.Setup.msi</url> 
         <fileName>FivoQA.Agent.Setup.msi</fileName> 
-        <md5>F6A280182E17A255416B687561B52D6A</md5>
+        <md5>B7BAE7887F8522969B1A3896FDE14167</md5>
         <description>1. Agent is able to retrieve mirth server name
         <launchArgs></launchArgs> 
     </update> 
