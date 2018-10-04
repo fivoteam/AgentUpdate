@@ -5,7 +5,7 @@
         <url>https://s3.amazonaws.com/downloads.fivo.io/FivoQA.Agent.Setup.msi</url> 
         <fileName>FivoQA.Agent.Setup.msi</fileName> 
         <md5>87A0634D28502B8DA9947F001B7EEF2C</md5>
-        <description>1. Agent is able to retrieve mirth server name
+        <description>1. Retrieve host machine local timezone
         <launchArgs></launchArgs> 
     </update> 
 </FivoUpdate>
