@@ -5,7 +5,7 @@
         <url>https://s3.amazonaws.com/downloads.fivo.io/FivoQA.Agent.Setup.msi</url> 
         <fileName>FivoQA.Agent.Setup.msi</fileName> 
         <md5>AFA21CE731073FA6E3968BEEE4FD84F3</md5>
-        <description>1. Retrieve host machine local timezone
+        <description>1. Retrieve host machine local timezone</description>
         <launchArgs></launchArgs> 
     </update> 
 </FivoUpdate>
