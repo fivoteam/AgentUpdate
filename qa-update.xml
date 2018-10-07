@@ -4,7 +4,7 @@
         <version>1.9.2.4</version> 
         <url>https://s3.amazonaws.com/downloads.fivo.io/FivoQA.Agent.Setup.msi</url> 
         <fileName>FivoQA.Agent.Setup.msi</fileName> 
-        <md5>7B57718766209E921E1FECD50BE6E292</md5>
+        <md5>20F581B40555C1968BC5C239BCC6DC2C</md5>
         <description>1. Retrieve host machine local timezone</description>
         <launchArgs></launchArgs> 
     </update> 
