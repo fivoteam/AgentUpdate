@@ -1,10 +1,10 @@
 <?xml version="1.0"?> 
 <FivoUpdate> 
     <update appID="Fivo.Agent.Control"> 
-        <version>1.9.2.4</version> 
+        <version>1.9.2.5</version> 
         <url>https://s3.amazonaws.com/downloads.fivo.io/FivoQA.Agent.Setup.msi</url> 
         <fileName>FivoQA.Agent.Setup.msi</fileName> 
-        <md5>20F581B40555C1968BC5C239BCC6DC2C</md5>
+        <md5>3BC9C696F870EC6DDF83EBEE2C2C0D6A</md5>
         <description>1. Retrieve host machine local timezone</description>
         <launchArgs></launchArgs> 
     </update> 
