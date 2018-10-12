@@ -5,9 +5,7 @@
         <url>https://s3.amazonaws.com/downloads.fivo.io/FivoAppa.Agent.Setup.msi</url> 
         <fileName>FivoAppa.Agent.Setup.msi</fileName> 
         <md5>4B3CF8A66B255398B93C42606E995E1F</md5>
-        <description>1. Added machine state/description retrieval
-2. Able to enable or disable native signalr logging 
-3. Enhancements and bug fixes</description> 
+         <description>1. Retrieve host machine local timezone</description>
         <launchArgs></launchArgs> 
     </update> 
 </FivoUpdate>
