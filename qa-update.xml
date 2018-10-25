@@ -1,11 +1,11 @@
 <?xml version="1.0"?> 
 <FivoUpdate> 
     <update appID="Fivo.Agent.Control"> 
-        <version>1.9.2.5</version> 
+        <version>1.9.2.6</version> 
         <url>https://s3.amazonaws.com/downloads.fivo.io/FivoQA.Agent.Setup.msi</url> 
         <fileName>FivoQA.Agent.Setup.msi</fileName> 
-        <md5>3BC9C696F870EC6DDF83EBEE2C2C0D6A</md5>
-        <description>1. Retrieve host machine local timezone</description>
+        <md5>D5ECCEBC82BA773DFBB62366341612C9</md5>
+        <description>1. Fix YML not created during init</description>
         <launchArgs></launchArgs> 
     </update> 
 </FivoUpdate>
