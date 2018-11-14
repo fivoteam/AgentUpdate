@@ -1,11 +1,11 @@
 <?xml version="1.0"?> 
 <FivoUpdate> 
     <update appID="Fivo.Agent.Control"> 
-        <version>1.9.2.6</version> 
+        <version>2.0.1.1</version> 
         <url>https://s3.amazonaws.com/downloads.fivo.io/FivoQA.Agent.Setup.msi</url> 
         <fileName>FivoQA.Agent.Setup.msi</fileName> 
-        <md5>D5ECCEBC82BA773DFBB62366341612C9</md5>
-        <description>1. Fix YML not created during init</description>
+        <md5>B87C01C2294340B87302EFDE18126269</md5>
+        <description>1. Editable folder path</description>
         <launchArgs></launchArgs> 
     </update> 
 </FivoUpdate>
