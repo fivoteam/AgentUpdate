@@ -4,7 +4,7 @@
         <version>2.0.1.1</version> 
         <url>https://s3.amazonaws.com/downloads.fivo.io/FivoQA.Agent.Setup.msi</url> 
         <fileName>FivoQA.Agent.Setup.msi</fileName> 
-        <md5>B87C01C2294340B87302EFDE18126269</md5>
+        <md5>6D22174F0DD65F0317A4636CB9E2626B</md5>
         <description>1. Editable folder path</description>
         <launchArgs></launchArgs> 
     </update> 
