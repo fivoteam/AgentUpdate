@@ -1,10 +1,10 @@
 <?xml version="1.0"?> 
 <FivoUpdate> 
     <update appID="Fivo.Agent.Control"> 
-        <version>2.0.2.2</version> 
+        <version>2.0.2.3</version> 
         <url>https://s3.amazonaws.com/downloads.fivo.io/FivoQA.Agent.Setup.msi</url> 
         <fileName>FivoQA.Agent.Setup.msi</fileName> 
-        <md5>4B0099DF0DB6B7BE6DF943B787481479</md5>
+        <md5>D71ED068518BFCD8BE5FD38A7733E199</md5>
         <description>1. Update TOS and additional end task command feature</description>
         <launchArgs></launchArgs> 
     </update> 
