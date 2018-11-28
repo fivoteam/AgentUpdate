@@ -1,10 +1,10 @@
 <?xml version="1.0"?> 
 <FivoUpdate> 
     <update appID="Fivo.Agent.Control"> 
-        <version>2.0.2.7</version> 
+        <version>2.0.2.8</version> 
         <url>https://s3.amazonaws.com/downloads.fivo.io/FivoQA.Agent.Setup.msi</url> 
         <fileName>FivoQA.Agent.Setup.msi</fileName> 
-        <md5>5BF513B4BDF43A262409B60D6459B837</md5>
+        <md5>2703F56A97841FA8634C6C7344D8D301</md5>
         <description>1. Added agent machine info history api</description>
         <launchArgs></launchArgs> 
     </update> 
