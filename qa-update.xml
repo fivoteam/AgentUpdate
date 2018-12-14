@@ -1,10 +1,10 @@
 <?xml version="1.0"?> 
 <FivoUpdate> 
     <update appID="Fivo.Agent.Control"> 
-        <version>2.0.3.6</version> 
+        <version>2.0.3.7</version> 
         <url>https://s3.amazonaws.com/downloads.fivo.io/FivoQA.Agent.Setup.msi</url> 
         <fileName>FivoQA.Agent.Setup.msi</fileName> 
-        <md5>D004ED91102DE0D80E25BD438F3D305A</md5>
+        <md5>F55AAEAF10F0D0A0F2E3A8AB4D8DE330</md5>
         <description>1. Enhancements</description>
         <launchArgs></launchArgs> 
     </update> 
