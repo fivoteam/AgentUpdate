@@ -4,7 +4,7 @@
         <version>2.0.4.7</version> 
         <url>https://s3.amazonaws.com/downloads.fivo.io/FivoQA.Agent.Setup.msi</url> 
         <fileName>FivoQA.Agent.Setup.msi</fileName> 
-        <md5>661A0FF34D7883587DBF45018B6F91DE</md5>
+        <md5>38C45FFA9EEE71A4E606DD4432012C1B</md5>
         <description>1. Enhancements</description>
         <launchArgs></launchArgs> 
     </update> 
