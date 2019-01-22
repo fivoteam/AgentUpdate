@@ -5,7 +5,7 @@
         <url>https://s3.amazonaws.com/downloads.fivo.io/FivoQA.Agent.Setup.msi</url> 
         <fileName>FivoQA.Agent.Setup.msi</fileName> 
         <md5>E63921D50D0E4CD23BD5187C7A1DAEE9</md5>
-        <description>1. Enhancements</description>
+        <description>1. Added mirth 3.7 support</description>
         <launchArgs></launchArgs> 
     </update> 
 </FivoUpdate>
